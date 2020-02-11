@@ -1,24 +1,30 @@
-# README
+# 📖 Toy Web App - Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
 
-Things you may want to cover:
+This is another quick, short project praciting the creation of a Ruby on Rails web app.
 
-* Ruby version
+Included in the scope of this blog is:
+  - Creation of users
+  - Creation of posts
+  - Destruction of users and posts
+  - Editing of users and posts
 
-* System dependencies
+## 🥅 The Project Brief
 
-* Configuration
+The specifications and the guide to the project can be found on the ['Getting Your Feet Wet - Toy App'](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app).
 
-* Database creation
+## 🖥️ Technologies & Languages Used
 
-* Database initialization
+- Ruby 2.6.5
+- Ruby on Rails 6.0.2.1
 
-* How to run the test suite
+## 👨🏽‍💻 👨🏽‍💻 Creators
 
-* Services (job queues, cache servers, search engines, etc.)
+Rory Hellier - [GitHub](https://github.com/Rhelli)
 
-* Deployment instructions
+Qoosim AbdulGhaniyy - [Github](https://github.com/Qoosim)
 
-* ...
+## 👏🏽 Show Your Support
+
+Give a ⭐️ if you like this project!
