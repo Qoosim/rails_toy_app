@@ -4,7 +4,7 @@ This project is part of a series of projects to be completed by students of [Mic
 
 This is another quick, short project praciting the creation of a Ruby on Rails web app.
 
-Included in the scope of this blog is:
+Included in the scope of this project is:
   - Creation of users
   - Creation of posts
   - Destruction of users and posts
