@@ -201,27 +201,27 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootsnap (>= 1.4.2)
+  bootsnap
   byebug
-  capybara (>= 2.15)
-  jbuilder (~> 2.7)
-  listen (>= 3.0.5, < 3.2)
-  pg (~> 1.2, >= 1.2.2)
-  puma (~> 4.1)
+  capybara
+  jbuilder
+  listen
+  pg
+  puma
   rails (~> 6.0.2, >= 6.0.2.1)
-  sass-rails (>= 6)
+  sass-rails
   selenium-webdriver
   spring
-  spring-watcher-listen (~> 2.0.0)
-  sqlite3 (~> 1.4)
-  turbolinks (~> 5)
+  spring-watcher-listen
+  sqlite3
+  turbolinks
   tzinfo-data
-  web-console (>= 3.3.0)
+  web-console
   webdrivers
-  webpacker (~> 4.0)
+  webpacker
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.6.5p114
 
 BUNDLED WITH
    2.1.4
